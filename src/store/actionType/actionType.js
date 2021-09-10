@@ -1,0 +1,2 @@
+export const UPLOAD_DATA = 'UPLOAD_DATA'
+export const SELECT_CATEGORY = 'SELECT_CATEGORY'

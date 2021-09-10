@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5040ac9.chunk.css",
+    "main.js": "/static/js/main.33334c01.chunk.js",
+    "main.js.map": "/static/js/main.33334c01.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4dd53b00.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4dd53b00.js.map",
+    "static/css/2.ab75b8d7.chunk.css": "/static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.923cb133.chunk.js": "/static/js/2.923cb133.chunk.js",
+    "static/js/2.923cb133.chunk.js.map": "/static/js/2.923cb133.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ab75b8d7.chunk.css.map": "/static/css/2.ab75b8d7.chunk.css.map",
+    "static/css/main.a5040ac9.chunk.css.map": "/static/css/main.a5040ac9.chunk.css.map",
+    "static/js/2.923cb133.chunk.js.LICENSE.txt": "/static/js/2.923cb133.chunk.js.LICENSE.txt",
+    "static/media/comp.6f8abee3.png": "/static/media/comp.6f8abee3.png",
+    "static/media/film.a7e2ce82.jpg": "/static/media/film.a7e2ce82.jpg",
+    "static/media/sports.64b6c45b.jpg": "/static/media/sports.64b6c45b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dd53b00.js",
+    "static/css/2.ab75b8d7.chunk.css",
+    "static/js/2.923cb133.chunk.js",
+    "static/css/main.a5040ac9.chunk.css",
+    "static/js/main.33334c01.chunk.js"
+  ]
+}
