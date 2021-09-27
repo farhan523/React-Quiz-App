@@ -1,3 +1,6 @@
+# Project is hosted on Surge
+https://react-quiz-appx.surge.sh/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
