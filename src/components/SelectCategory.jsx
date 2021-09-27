@@ -11,6 +11,7 @@ import {
     Link
 } from "react-router-dom";
 import { useHistory } from "react-router-dom";
+
 async function ctaCat(e, dispatch) {
     console.log(e.target.attributes.value.value);
     await dispatch({
